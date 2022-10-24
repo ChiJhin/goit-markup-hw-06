@@ -851,7 +851,6 @@ body {
 }
 .form-span {
     color: var(--sub-bg-color);
-    text-decoration: underline;
 }
 .modal-form .btn {
     width: 200px;
