@@ -842,7 +842,7 @@ body {
 }
 .checkbox:checked ~ .custom-checkbox {
     background-color: var(--sub-bg-color);
-    background-image: url(/images/icon_check.svg);
+    background-image: url(./images/icon_check.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
